@@ -8,8 +8,8 @@
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
-  "name": "mpq9km",
-  "description": null,
+  "name": "tictactoe",
+  "description": "My first React.js project",
   "version": "0.0.28",
   "scripts": {
     "start": "react-scripts start",
