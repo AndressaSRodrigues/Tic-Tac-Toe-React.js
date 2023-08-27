@@ -2,6 +2,8 @@
 
 This is a simple tic-tac-toe game developed with React.js. It serves as a practical learning exercise for working with React.js components, state management, and handling user interactions.
 
+You can check the game [here](https://tictactoebyandressa.netlify.app/).
+
 ## Table of Contents
 
 - [Introduction](#introduction)
